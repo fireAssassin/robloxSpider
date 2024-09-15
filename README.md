@@ -13,3 +13,14 @@
 # Disclaimer
 
 - This script is for educational and entertainment purposes only. Be sure to comply with Roblox's terms of service and any specific game rules when using this script.
+
+## Task List
+
+### To Do
+- [ ] Add Other Useful Features
+- [ ] Add Autowin
+
+### Done
+- [x] ESP
+- [x] Auto Web
+
